@@ -7,6 +7,12 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h4>Tags:</h4>
+      <ul>
+		  {% for tags in post.tags %}
+		    <li>{{ tags }}</li>
+		  {% endfor %}
+	  </ul>
 
       <div class="entry">
         {{ post.excerpt }}
