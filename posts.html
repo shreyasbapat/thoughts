@@ -13,4 +13,7 @@ layout: compress
         </div>
         {% include scripts.html %}
     </body>
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
 </html>
