@@ -1,8 +1,8 @@
 # Site settings
 title: Thoughts | Shreyas Bapat
 description: "A blog by a developer turned into an Astronomer who is basically a Electrical Engineer"
-baseurl: "/thoughts" 
-url: "http://shreyasb.com"
+baseurl: "/" 
+url: "http://shreyasb.com/thoughts/"
 
 # User settings
 username: Shreyas Bapat
@@ -10,12 +10,12 @@ user_title: Software Developer
 email: info@shreyasb.com
 twitter_username: shreyasbapat99
 github_username:  shreyasbapat
-linkedin_public_url: shreyasbapat 
+linkedin_public_url: shreyasbapat
 disqus_username: shreyasbapat
 profile_picture: https://avatars1.githubusercontent.com/u/24257914?s=400&u=e4b3468682fb947f7b53a8458086822b39fb38a0&v=4
 
 disqus:
-    shortname: shreyasb
+    shortname:
 
 # Build settings
 markdown: kramdown
