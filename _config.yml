@@ -1,8 +1,8 @@
 # Site settings
 title: Thoughts | Shreyas Bapat
 description: "A blog by a developer turned into an Astronomer who is basically a Electrical Engineer"
-baseurl: "/thoughts" # for test: remove string '/space-jekyll-template' to ''
-url: "http://shreyasbapat.github.io/thoughts/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+baseurl: "/thoughts" 
+url: "http://shreyasbapat.github.io/thoughts/"
 
 # User settings
 username: Shreyas Bapat
@@ -10,9 +10,9 @@ user_title: Software Developer
 email: info@shreyasb.com
 twitter_username: shreyasbapat99
 github_username:  shreyasbapat
-linkedin_public_url: shreyasbapat # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+linkedin_public_url: shreyasbapat 
 disqus_username: shreyasbapat
-profile_picture: https://github.com/shreyasbapat/shreyasbapat.github.io/blob/master/images/profile-pic.jpg
+profile_picture: https://avatars1.githubusercontent.com/u/24257914?s=400&u=e4b3468682fb947f7b53a8458086822b39fb38a0&v=4
 
 # Build settings
 markdown: kramdown
