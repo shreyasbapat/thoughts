@@ -1,88 +1,69 @@
-#
-# This file contains configuration flags to customize your site
-#
+# Site settings
+title: Thoughts | Shreyas Bapat
+description: "A blog by a developer turned into an Astronomer who is basically a Electrical Engineer"
+baseurl: "/thoughts" # for test: remove string '/space-jekyll-template' to ''
+url: "http://shreyasbapat.github.io/thoughts/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
-# Name of your site (displayed in the header)
-name: Shreyas Bapat
+# User settings
+username: Shreyas Bapat
+user_title: Software Developer
+email: info@shreyasb.com
+twitter_username: shreyasbapat99
+github_username:  shreyasbapat
+linkedin_public_url: shreyasbapat # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: shreyasbapat
+profile_picture: https://github.com/shreyasbapat/shreyasbapat.github.io/blob/master/images/profile-pic.jpg
 
-# Short bio or description (displayed in the header)
-description: Software Developer/ Full Stack Developer
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/24257914?s=400&u=e4b3468682fb947f7b53a8458086822b39fb38a0&v=4
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: bapat.shreyas@gmail.com
-  facebook: bapat.shreyas
-  flickr: shreyasbapat
-  github: shreyasbapat
-  instagram: shreyas_bapat09
-  linkedin: shreyasbapat
-  pinterest:
-  rss: shreyasbapat
-  twitter: shreyasbapat99
-  stackoverflow: users/9507012/shreyas-bapat
-  youtube: channel/UCAHK9PUBjAuo78ZqpKblfaQ
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: shreyasbapat
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: https://shreyasb.com
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: "/thoughts"
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
+# Build settings
+markdown: kramdown
+highlighter: rouge
 permalink: /:title/
 
-# The release of Jekyll Now that you're using
-version: v1.2.0
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
 
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+# Links to include in menu navigation
+links:
+  section_1:
+    - title: home
+      url: /
+      key_trigger: 1
+    - title: my posts
+      url: /posts
+      key_trigger: 2
+    - title: series
+      url: /series
+      key_trigger: 3
+    - title: tags
+      url: /tags
+      key_trigger: 4
+    - title: about me
+      url: /about
+      key_trigger: 5
+  section_2:
+    - title: github
+      url: https://github.com/shreyasbapat
+      new_tab: true
+      key_trigger: g
+    - title: twitter
+      url: https://twitter.com/shreyasbapat99
+      key_trigger: t
+    - title: search
+      url: ""
+      key_trigger: s #WARNING: search only works with "s"
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
+# projects in header index
+projects:
+  - name: poliastro
+    url: https://github.com/poliastro/poliastro
+  - name: downy
+    url: https://github.com/loadpy/downy
+  - name: astroquery
+    url: https://github.com/astropy/astroquery
 
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-
-theme: jekyll-theme-minimal
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

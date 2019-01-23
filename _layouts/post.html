@@ -1,18 +1,26 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="pt-br">
+    {% include head.html %}
+    <body>
+        {% include svg-icons.html %}
+        {% include header-post.html %}
+        {% include tree-posts.html %}
+        <section class="post" itemscope itemtype="http://schema.org/BlogPosting">
+            {% if page.date %}
+                <div class="time">
+                    <time itemprop="datePublished" datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
+                </div>
+            {% endif %}
+            <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+            <article role="article" id="scroll" class="post-content" itemprop="articleBody">
+                {{ content }}
+            </article>
 
-  <div class="entry">
-    {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-    Tagged as {{page.tags}}
-  </div>
-
-  {% include disqus.html %}
-</article>
+            {% include share.html %}
+            {% include comments.html %}
+            {% include footer.html %}
+            {% include scripts.html %}
+        </section>
+    </body>
+</html>
