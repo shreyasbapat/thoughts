@@ -1,14 +1,14 @@
 # Site settings
 title: Thoughts | Shreyas Bapat
-description: "A blog by a developer turned into an Astronomer who is basically a Electrical Engineer"
-baseurl: "/" 
-url: "http://shreyasb.com/thoughts/"
+description: "A blog by a developer turned into an Astronomer who is basically an Electrical Engineer"
+baseurl: "/"
+url: "http://blog.shreyasb.com/"
 
 # User settings
 username: Shreyas Bapat
 user_title: Software Developer
-email: info@shreyasb.com
-twitter_username: shreyasbapat99
+email: hello@shreyasb.com
+twitter_username: astroshreyas
 github_username:  shreyasbapat
 linkedin_public_url: shreyasbapat
 disqus_username: shreyasbapat
@@ -53,7 +53,7 @@ links:
       new_tab: true
       key_trigger: g
     - title: twitter
-      url: https://twitter.com/shreyasbapat99
+      url: https://twitter.com/astroshreyas
       key_trigger: t
     - title: search
       url: ""
@@ -63,10 +63,10 @@ links:
 projects:
   - name: poliastro
     url: https://github.com/poliastro/poliastro
-  - name: downy
-    url: https://github.com/loadpy/downy
-  - name: astroquery
-    url: https://github.com/astropy/astroquery
+  - name: EinsteinPy
+    url: https://github.com/einsteinpy/einsteinpy
+  - name: python-oifits
+    url: https://github.com/shreyasbapat/python-oifits
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

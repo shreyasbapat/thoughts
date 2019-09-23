@@ -2,9 +2,8 @@
 
 I will be writing many things on this blog! Keep posted.
 
-https://shreyasb.com/thoughts/
+https://blog.shreyasb.com/
 
 Thanks!
 
 Shreyas
-
