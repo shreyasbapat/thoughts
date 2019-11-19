@@ -60,7 +60,7 @@ links:
       key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
-projects:
+Highlighted Posts:
   - name: poliastro
     url: https://github.com/poliastro/poliastro
   - name: EinsteinPy
