@@ -58,14 +58,14 @@ money. A lot of us actually live a very good and lavish life, we complain that o
 We complain that our government is not putting in enough financial resources to fight COVID19 Outbreak. What we do not complain
 is, why our parents are not paying income tax?
 
-India has a total of 269 Million [1](https://en.wikipedia.org/wiki/Poverty_in_India) people living below poverty line.
+India has a total of 269 Million [[1]](https://en.wikipedia.org/wiki/Poverty_in_India) people living below poverty line.
 India has a nominal per capita income of $1670 per year which is around ₹120,000. Now if you look at it, that means, a lot
 of people in India have income in lakhs of rupees. Now even if we consider that the income distribution in India is very much skewed
 and there is a huge inequality in income distribution. Still, in a country of 130 Crore people, is it possible that only 1.5 Crore people
-are actually paying income tax? (That is 1%) [2](https://www.hindustantimes.com/india-news/3-cr-indians-travel-abroad-but-only-1-5-cr-pay-income-tax-says-pm-modi/story-miELROjZeymOGqzvXVYtpN.html). Now the problem is real. We definitely have people earning enough money to pay taxes. Now what do we do?
+are actually paying income tax? (That is 1%) [[2]](https://www.hindustantimes.com/india-news/3-cr-indians-travel-abroad-but-only-1-5-cr-pay-income-tax-says-pm-modi/story-miELROjZeymOGqzvXVYtpN.html). Now the problem is real. We definitely have people earning enough money to pay taxes. Now what do we do?
 What do you think thw society does? Do we find a solution? NO!
 
-We blame the government, we blame them for us not paying taxes [3](https://theprint.in/opinion/its-actually-modi-govts-fault-that-only-1-5-crore-indians-pay-income-tax/365801/). Now even if I believe that it is Modi's mistake by changing the tax slab to 5 lakhs, why do we fail to realise that it is **also** our
+We blame the government, we blame them for us not paying taxes [[3]](https://theprint.in/opinion/its-actually-modi-govts-fault-that-only-1-5-crore-indians-pay-income-tax/365801/). Now even if I believe that it is Modi's mistake by changing the tax slab to 5 lakhs, why do we fail to realise that it is **also** our
 fault for not paying the income tax.
 
 And it is not just the tax, we complain about everything. We complain that the government is not giving us proper roads.
