@@ -1,8 +1,8 @@
 # Site settings
 title: Thoughts | Shreyas Bapat
 description: "A blog by a developer turned into an Astronomer who is basically an Electrical Engineer"
-baseurl: "/"
-url: "http://blog.shreyasb.com/"
+#baseurl: "/"
+url: "http://blog.shreyasb.dev/"
 
 # User settings
 username: Shreyas Bapat
@@ -33,19 +33,19 @@ compress_html:
 links:
   section_1:
     - title: home
-      url: /
+      url: http://blog.shreyasb.dev/
       key_trigger: 1
     - title: my posts
-      url: /posts
+      url: http://blog.shreyasb.dev/posts
       key_trigger: 2
     - title: series
-      url: /series
+      url: http://blog.shreyasb.dev/series
       key_trigger: 3
     - title: tags
-      url: /tags
+      url: http://blog.shreyasb.dev/tags
       key_trigger: 4
     - title: about me
-      url: /about
+      url: http://blog.shreyasb.dev/about
       key_trigger: 5
   section_2:
     - title: github
@@ -60,13 +60,13 @@ links:
       key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
-Highlighted Posts:
+projects:
   - name: poliastro
     url: https://github.com/poliastro/poliastro
   - name: EinsteinPy
     url: https://github.com/einsteinpy/einsteinpy
-  - name: python-oifits
-    url: https://github.com/shreyasbapat/python-oifits
+  - name: Tails
+    url: https://github.com/shreyasbapat/tails
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
