@@ -6,8 +6,8 @@ tags:
 - covid19
 ---
 
-SARS-Cov-2, really a nightmare for most world leaders right now and a really dangerous virus that causes the Novel COVID-19 disease
-is dominating the news. And if you think about it, it has all the reasons to. These are some key sources of news for our Indian media:
+SARS-Cov-2, a nightmare for most of the world leaders right now and a really dangerous virus that causes the Novel COVID-19 disease
+is dominating the news these days. And if you think about it, it has all the reasons to. These are some key sources of news for our Indian media:
 
 1) What our prime minister (Mr. Narendra Modi) says
 2) What POTUS (Mr. Doanld Trump) says
@@ -76,4 +76,4 @@ I feel giving the location data to the government for a few days is much better 
 If you would like to have a conversation about this, maybe understand my point better, drop me an email ([hello@shreyasb.com](mailto:hello@shreyasb.com))
 and we can talk. Thanks for reading.
 
-If you have a better solution, or a vague idea on how we can tackle this. I am all ears, and I am all in. Please feel free to [schedule a call](https://calendly.com/shreyasbapat/30min) with me and we will try to figure out something! 
+If you have a better solution, or a vague idea on how we can tackle this. I am all ears, and I am all in. Please feel free to [schedule a call](https://calendly.com/shreyasbapat/30min) with me and we will try to figure out something!
