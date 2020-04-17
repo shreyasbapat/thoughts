@@ -3,6 +3,7 @@ layout: post
 title: Devil Inside
 tags:
 - life
+- covid19
 ---
 
 We are very outspoken, about almost everything. This is not just limited to things that happen
@@ -85,4 +86,4 @@ bad happening with them.
 If you would like to have a conversation about this, maybe complain about anything (:p), drop me an email ([hello@shreyasb.com](mailto:hello@shreyasb.com))
 and we can talk. Thanks for reading, I hope I made a point and made yourself question some obvious things. Now I tried to make it as apolitical as
 possible. At the end, I beg you, and I literally do, to not argue with poor hardworking people about a few paisas/rupees. Of course, do argue
-if you feel the person is dishonest and charging more than the actual price :) 
+if you feel the person is dishonest and charging more than the actual price :)
