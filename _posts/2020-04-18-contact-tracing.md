@@ -10,12 +10,19 @@ SARS-Cov-2, a nightmare for most of the world leaders right now and a really dan
 is dominating the news these days. And if you think about it, it has all the reasons to. These are some key sources of news for our Indian media:
 
 1) What our prime minister (Mr. Narendra Modi) says
+
 2) What POTUS (Mr. Doanld Trump) says
+
 3) What Mr. Vladimir Putin says
+
 4) What Pakistan says
+
 5) What the RBI (Reserve Bank of India) says
+
 6) What chief ministers say
+
 7) What opposition says
+
 8) And finally the regular burglary, murder, rape and 100 different inhumne things that happen in our society (for which we are usually the least worried about)
 
 Now as of April 17th 2020, India is under a **Total Lockdown** since March 25th 2020. This lockdown is officially extended till May 3rd 2020 which
