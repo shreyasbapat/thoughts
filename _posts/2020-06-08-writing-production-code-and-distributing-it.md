@@ -172,7 +172,8 @@ You can ignore the rest for now. Now if you look closely, you will find three de
 
 I will start by quoting the zen of Python :
 
-> Beautiful is better than ugly.
+```
+Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
 Complex is better than complicated.
@@ -191,6 +192,8 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+```
+
 This `easter egg` was introduced in [PEP 20](https://www.python.org/dev/peps/pep-0020/) and can be reproduced by writing :
 
 ```python
