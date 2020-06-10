@@ -315,7 +315,7 @@ In the end, you will have `sudo apt install python3-packagename` for your packag
 
 You SHOULD ALWAYS NAME YOUR LICENCE FILE AS **COPYING**. Don't ask why, just do it. The reasons for that are beyond the scope of this article.
 
-[!licence](https://d33wubrfki0l68.cloudfront.net/443123b536cf4c21e0e92f4372e39fb1459bd978/ce7cc/_images/33907149294_82d7535a6c_k_d.jpg)
+![licence](https://www2.cs.duke.edu/courses/compsci308/spring17/classwork/opensource/licenses.png)
 
 Your source publication needs a license. In the US, if no license is specified, users have no legal right to download, modify, or distribute. Furthermore, people can’t contribute to your code unless you tell them what rules to play by. Choosing a license is complicated, so here are some pointers:
 
