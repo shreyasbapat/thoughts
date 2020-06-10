@@ -211,6 +211,8 @@ An excerpt from [PEP 8](https://www.python.org/dev/peps/pep-0008/):
 To be consistent with surrounding code that also breaks it (maybe for historic reasons) -- although this is also an opportunity to clean up someone else's mess (in true XP style).
 Because the code in question predates the introduction of the guideline and there is no other reason to be modifying that code.
 When the code needs to remain compatible with older versions of Python that don't support the feature recommended by the style guide.
+
+
 Keeping this in mind that using PEP 8 can actually hamper the readability of the code, many people stopped using PEP8, and maintainability of the public codes started to go down. You have to understand that while reviewing the submitted patches, you get to look at the diff. Sometimes the diff can be overwhelming. And when the diffs are ignored and few parts of the code are merged without a proper review as they are hard to read, a strong technical debt is introduced which continues for years and is difficult to resolve.
 That's why we should always avoid **Technical Debts**. You must ask if PEP 8 can't help, what can?
 
