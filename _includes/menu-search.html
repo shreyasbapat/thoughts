@@ -42,6 +42,10 @@
       {% for link in section[1] %}
         {% if link.external %}
             <li>
+                <span class="counter-menu">{{link.key_trigger}}</span>
+                <svg viewBox="0 0 50 50" class="icon-arrow-menu">
+                    <use xlink:href="#icon-right-arrow"></use>
+                </svg>
                 <a href="{{ link.url }}">{{ link.title }}</a>
             </li>
         {% else %}
