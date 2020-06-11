@@ -65,8 +65,7 @@ projects:
     url: https://github.com/poliastro/poliastro
   - name: EinsteinPy
     url: https://github.com/einsteinpy/einsteinpy
-  - name: Tails
-    url: https://github.com/shreyasbapat/tails
-
+  - name: FurryTails
+    url: https://furrytails.in
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
