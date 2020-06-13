@@ -26,4 +26,4 @@ The documentation can be seen here: [https://docs.einsteinpy.org](https://docs.e
 
 Next part, we will have a mention of the Lead Maintainer of the project, Ritwik. So, there's something left to write.
 
-(If you are here from the EinsteinPy Poster of SciPy 2020, a warm welcome! Go back to the poster, and you will find the link to the otehr blog!)
+(If you are here from the EinsteinPy Poster of SciPy 2020, a warm welcome! Go back to the poster, and you will find the link to the other blog!)
