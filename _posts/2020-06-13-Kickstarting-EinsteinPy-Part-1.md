@@ -23,3 +23,7 @@ EinsteinPy is an open-source pure Python package dedicated to problems arising i
 The code can be seen here: [https://github.com/einsteinpy/einsteinpy](https://github.com/einsteinpy/einsteinpy)
 
 The documentation can be seen here: [https://docs.einsteinpy.org](https://docs.einsteinpy.org)
+
+Next part, we will have a mention of the Lead Maintainer of the project, Ritwik. So, there's something left to write.
+
+(If you are here from the EinsteinPy Poster of SciPy 2020, a warm welcome! Go back to the poster, and you will find the link to the otehr blog!)
