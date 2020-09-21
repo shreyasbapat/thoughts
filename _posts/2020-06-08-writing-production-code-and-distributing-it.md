@@ -8,7 +8,7 @@ tags:
 - linting
 - packaging
 ---
-Published in [DevBae](https://devbae.tech/prod-grade-code/). Please read it here: https://devbae.tech/prod-grade-code/.
+Published in [DevBae](https://devbae.tech/). Please read it here: [https://devbae.tech/prod-grade-code/](https://devbae.tech/prod-grade-code/).
 
 Imagine you are in a desert and you only have one bottle packed in a Japanese puzzle box with no documentation on how to open it.
 
