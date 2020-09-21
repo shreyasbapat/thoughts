@@ -8,6 +8,8 @@ tags:
 - linting
 - packaging
 ---
+Published in [DevBae](https://devbae.tech/prod-grade-code/). Please read it here: https://devbae.tech/prod-grade-code/.
+
 Imagine you are in a desert and you only have one bottle packed in a Japanese puzzle box with no documentation on how to open it.
 
 Felt bad right? That exactly what happens when anyone looks at a poorly documented, badly written code and wants to work on it.
