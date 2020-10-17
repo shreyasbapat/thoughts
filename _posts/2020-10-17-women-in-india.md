@@ -20,7 +20,7 @@ We have all heard that India is an agricultural country. This is indeed a false 
 
 So you see, there is growth, but the growth of service sector outperforms it. And not just that, growth of agricultural sector is also less than the national average. So what makes India a growth story?
 
-## Indian Growth Problem
+## Indian Growth Conundrum
 
 Take a wild guess of the growth rate of Agriculture sector of India. We call ourselves a country of farmers. I will give you a discount, guess the number from 2017, when the economy was strongest ever. Do you have a number in mind?
 
