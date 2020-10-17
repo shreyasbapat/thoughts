@@ -48,6 +48,8 @@ But do you know why we are not usually able to instil demand in our economy? One
 
 <a href="https://www.statista.com/statistics/271320/distribution-of-the-workforce-across-economic-sectors-in-india/" rel="nofollow"><img src="https://www.statista.com/graphic/1/271320/distribution-of-the-workforce-across-economic-sectors-in-india.jpg" alt="Statistic: India: Distribution of the workforce across economic sectors from 2009 to 2019 | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
 
+This leads to only one person in the family earning. Which leads to the mentality of saving and not spending. Imagine what would happen if both of the members were earning. How much more money could the family spend. 
+
 Yes! I know you are questioning all the events that happened in the placements of your college, how females were ostensibly preferred over male candidates. I know you are questioning all the female hiring that several companies do. But let's stop for a moment and keep all our prejudices aside, keep all our assumptions, excuses aside and look at the data.
 
 Please note that this does not mean that rest of the sectors are gender neutral.
