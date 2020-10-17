@@ -81,18 +81,18 @@ Let's first look at the 2011 data before going further:
 
 I would also like to put forward one more statistic, to show how bad the condition is. If we rank all the countries in the world by the percentage of women in the labor force in those countries, there are only 9 countries who fall behind India. I would very much like to name those (hint: think about the countries which you think should be there, then read the list again, get shocked, read the list once again.)
 
-These rankings are by the increasing rate of female participation in labor forces.
+These rankings are by the decreasing rate of female participation in labor forces.
 
-- Yemen (1st)
-- Syria (2nd)
-- Iraq (3rd)
-- Jordan (4th)
-- Algeria (5th)
-- Iran (6th)
-- Somalia (7th)
-- Morocco (8th)
-- Egypt (9th)
-- **India** (10th)
+- **India**
+- Egypt
+- Morocco
+- Somalia
+- Iran
+- Algeria
+- Jordan
+- Iraq
+- Syria
+- Yemen
 
 I can read your mind. You are definitely thinking about a few countries which you thought would be in this list, but they aren't. Have a look at a recent tweet by Kunal Shah:
 
