@@ -54,7 +54,7 @@ Please note that this does not mean that rest of the sectors are gender neutral.
 
 The Year 2017 was indeed amazing for Indian Economy. For India’s women however, the year 2017 was significant for another reason – it was the year in which India’s female labor force participation rates (FLFPR) fell to its lowest level since Independence. World Bank (2017) notes that India has amongst the lowest FLFLPRs globally, with **only parts of the Arab world being lesser**. Do you understand what that means?
 
-[!](https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2019/10/G-1.png)
+![FLFLPR Data](https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2019/10/G-1.png)
 
 This exodus is not sudden, rather women’s participation in the labor force has shown a consistent decline over the last seven decades (above figure). The FLFPR peaked at 33% in 1972-73 and showed a decline till 1999-00, when it touched 26%. At 17.5% in 2017-18, it is at the lowest ever in Indian history. This presents a queer conundrum – why is it that a country seeing considerable gains in female education, remarkable decreases in fertility rates, and increasing economic growth is not seeing a greater participation from women in the workforce?
 
@@ -62,7 +62,7 @@ And wait, it get's worse.
 
 ## Urban < Rural ?
 
-The heading seems inappropriate from all societal measures. We tend to believe that everything Urban is better than Rural. 
+The heading seems inappropriate from all societal measures. We tend to believe that everything Urban is better than Rural.
 
 Source for the data: [Times of India Article](https://timesofindia.indiatimes.com/blogs/irrational-economics/where-are-indias-working-women/)
 
