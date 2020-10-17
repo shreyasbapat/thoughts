@@ -40,7 +40,21 @@ There's no better answer. Last 2 months have seen two Indian startups cross $1 B
 
 Future looks a little bit hazy. I can not say where we are heading. But I think there is one data point which we all are overlooking. I recently listened to a podcast by Kunal Shah, the founder of CRED, where he mentioned a point about Indian Urban Labour Force.
 
-## Indian Urban Labour Force
+## The Sham
+
+After looking at the growth figures, we feel positive. For those of us who have studied economics, we know it's just a demand-supply game.
+
+But do you know why we are not usually able to instil demand in our economy? That is because the services sector, which is mostly an urban business, and where only 30% Indians are working is mostly patriarchal.
+
+<a href="https://www.statista.com/statistics/271320/distribution-of-the-workforce-across-economic-sectors-in-india/" rel="nofollow"><img src="https://www.statista.com/graphic/1/271320/distribution-of-the-workforce-across-economic-sectors-in-india.jpg" alt="Statistic: India: Distribution of the workforce across economic sectors from 2009 to 2019 | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
+
+Yes! I know you are questioning all the events that happened in the placements of your college, how females were ostensibly preferred over male candidates. I know you are questioning all the female hiring that several companies do. But let's stop for a moment and keep all our prejudices aside, keep all our assumptions, excuses aside and look at the data.
+
+
+
+
+
+Source for the data: [Times of India Article](https://timesofindia.indiatimes.com/blogs/irrational-economics/where-are-indias-working-women/)
 
 
 
