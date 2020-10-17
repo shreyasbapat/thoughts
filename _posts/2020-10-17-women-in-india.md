@@ -102,7 +102,7 @@ Yes. We fall behind Pakistan, Bangladesh, China, and even Saudi Arabia, where wo
 
 One other important point to be considered here is this rate is declining every year. The problem is rather not that bad if the rate is constantly bad. The problem is that it keeps getting worse. There are these usual reasons that you can think of why it is low, but I went ahead to think about the reasons why the rate declines every year!
 
-I would like to add another interesting fact here, I know today, I have put a lot of numbers in front of you, but I am worried here. We have around 23 unicorns (Startup Valued over $1 Billion, assumed to be successful startups) in India. Out of collective **114 founders of these 23 unicorns**, 104 founders are male, and **only 5 of them are women.** This is less than 4.5%.
+I would like to add another interesting fact here, I know today, I have put a lot of numbers in front of you, but I am worried here. We have around 23 unicorns (Startup Valued over $1 Billion, assumed to be successful startups) in India. Out of collective **114 founders of these 23 unicorns**, 109 founders are male, and **only 5 of them are women.** This is less than 4.5%.
 
 ## Why?
 
