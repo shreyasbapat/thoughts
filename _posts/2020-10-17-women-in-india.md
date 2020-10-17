@@ -8,7 +8,7 @@ tags:
 - work
 ---
 
-"India is a growth Story" - If you are aware enough, you would believe this to be true. If not, you might have at-least heard about it in some talk about India, some article in some newspaper. If not, go and see the statistics. Post the 1991 economic reforms, we have tried to adapt to capitalism. What used to be an economy with 2-3% growth rate, it became an economic powerhouse on the global stage. It earned the moniker of the world’s fastest-growing major economy in 2017, maintaining GDP growth above 7% p.a. since 2011-12.
+"India is a growth Story" - If you are aware enough, you would believe this to be true. If not, you might have at-least heard about it in some talk about India, or some article in a newspaper. If not, go and see the statistics. Post the 1991 economic reforms, we have tried to adapt to capitalism. What used to be an economy with 2-3% growth rate, it became an economic powerhouse on the global stage. It earned the moniker of the world’s fastest-growing major economy in 2017, maintaining GDP growth above 7% p.a. since 2011-12.
 
 Today, if we don't see a 7% GDP growth rate, we start blaming the economic policies of the government. We are hungry for the economic growth. A lot of focus is in that area. No matter what you feel about the current government, no matter if we witness a negative growth rate which is in fact the 6th time it's happening (Earlier contractions were in FY-1958, FY-1966, FY-1967, FY-1973 and FY-1980), we all know we will still grow. We will keep growing for at least next 30-40 years. This projected ~10% contraction is in fact not a big surprise. Our growth rate is skewed, we largely depend on services. And there is a trend which is worrying. If you look at the figures in the chart below, you will see that as time passes, we are increasing our dependence on services.
 
@@ -48,7 +48,7 @@ But do you know why we are not usually able to instil demand in our economy? One
 
 <a href="https://www.statista.com/statistics/271320/distribution-of-the-workforce-across-economic-sectors-in-india/" rel="nofollow"><img src="https://www.statista.com/graphic/1/271320/distribution-of-the-workforce-across-economic-sectors-in-india.jpg" alt="Statistic: India: Distribution of the workforce across economic sectors from 2009 to 2019 | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
 
-This leads to only one person in the family earning. Which leads to the mentality of saving and not spending. Imagine what would happen if both of the members were earning. How much more money could the family spend. 
+This leads to only one person in the family earning. Which leads to the mentality of saving and not spending. Imagine what would happen if both of the members were earning. How much more money could the family spend.
 
 Yes! I know you are questioning all the events that happened in the placements of your college, how females were ostensibly preferred over male candidates. I know you are questioning all the female hiring that several companies do. But let's stop for a moment and keep all our prejudices aside, keep all our assumptions, excuses aside and look at the data.
 
@@ -64,10 +64,54 @@ And wait, it get's worse.
 
 ## Urban < Rural ?
 
-The heading seems inappropriate from all societal measures. We tend to believe that everything Urban is better than Rural.
+The heading seems inappropriate from all societal measures. We tend to believe that everything Urban is better than Rural. But this is not true. Rural Women Participation in Labor Force is actually more than Urban Women. If you think about it, it is fairly easy to understand why. A lot of women in rural areas  have largely been undertaking labor-intensive, home-based, and informal work, concentrated in low-productivity sectors. The proportion of rural women working in agriculture fell from 88.1% in 1977-78 to 73.2% in 2017-18, even as the corresponding decline for rural men was 80.6% to 55% over the same period. See this interesting plot:
 
-Source for the data: [Times of India Article](https://timesofindia.indiatimes.com/blogs/irrational-economics/where-are-indias-working-women/)
+![Rural Women Participation segregated by sectors](https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2019/10/G-2.png)
 
+For urban women, the service sector has become increasingly significant, with its share in employment rising from 35.7% in 1977-78 to 60.7% in 2017-18. In this sector, women have become concentrated in professions such as teaching and nursing, which offer only limited scope for career progression. Unlike men, neither urban nor rural woman could significantly increase their presence in the secondary sector.
+
+![Urban Women Participation segregated by sectors](https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2019/10/G-3.png)
+
+
+## The number that should worry us the most!
+
+Let's first look at the 2011 data before going further:
+
+![2011 data on % of working women in Urban Areas](https://images.theconversation.com/files/41304/original/dg3sgxj2-1392153058.jpg)
+
+I would also like to put forward one more statistic, to show how bad the condition is. If we rank all the countries in the world by the percentage of the women in labor force in those countries, there are only 9 countries who fall behind India. I would very much like to name those (hint: think about the countries which you think should be there, then read the list again, get shocked, read the list once again.)
+
+These rankings are by the increasing rate of female participation in labor forces.
+
+- Yemen (1st)
+- Syria (2nd)
+- Iraq (3rd)
+- Jordan (4th)
+- Algeria (5th)
+- Iran (6th)
+- Somalia (7th)
+- Morocco (8th)
+- Egypt (9th)
+- **India** (10th)
+
+I can read your mind. You are definitely thinking about a few countries which you thought would be in this list, but they aren't. Have a look at a recent tweet by Kunal Shah:
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Less than 10% of Urban Indian women work. It’s lower than Pakistan and Bangladesh.</p>&mdash; Kunal Shah (@kunalb11) <a href="https://twitter.com/kunalb11/status/1267719366251970566?ref_src=twsrc%5Etfw">June 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Yes. We fall behind Pakistan, Bangladesh, China and even Saudi Arabia, where women got to vote in elections for the first time in 2015. We are behind countries where women did not had the right to drive a vehicle until recently. Just think about that!
+
+## Why?
+
+To be honest, I don't know for sure. From all the research I did, I found a few reasons but those seemed to be there in coutries who were doing better than us. But this is what I have:
+
+### Declining Rate shows more women are leaving Jobs
+
+So, this is quite straightforward.
+
+joint families in urban areas pehle
+concieving
 
 
 Thanks for reading. If you would like to have a conversation about this, maybe understand my point better, drop me an email ([hello@shreyasb.com](mailto:hello@shreyasb.com)).
+
+A very interesting report from 1961 : [Read here](https://www.epw.in/system/files/pdf/1965_17/37/urban_women_workersa_preliminary_study.pdf)
