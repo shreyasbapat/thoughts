@@ -122,4 +122,6 @@ We need more and more women in the working labor force. It doesn't hurt men's op
 
 I know this was too long. I know you would be able to see 100 things wrong about this issue that I did not even mention. But I appreciate you reading this. Thanks for reading. If you would like to have a conversation about this, maybe understand my point better, educate me about this, tell your experience, drop me an email ([hello@shreyasb.com](mailto:hello@shreyasb.com)). I will be very happy to talk about it.
 
-A very interesting report from 1961 : [Read here](https://www.epw.in/system/files/pdf/1965_17/37/urban_women_workersa_preliminary_study.pdf)
+Special Thanks to Akshita Jain, Shreya Lanjewar who helped me with this.
+
+A very interesting report on Working Urban Women of India from 1961 : [Read here](https://www.epw.in/system/files/pdf/1965_17/37/urban_women_workersa_preliminary_study.pdf)
