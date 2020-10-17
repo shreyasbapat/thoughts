@@ -16,7 +16,7 @@ Today, if we don't see a 7% GDP growth rate, we start blaming the economic polic
 
 We have all heard that India is an agricultural country. This is indeed a false statement in current context. Contribution of Industries in Indian GDP figures has declined from 31% in 2009 to 24.88% in 2019. DO NOT confuse it with the notion that Make in India is not working (I know a lot of people read it like that). I will try to be as apolitical as possible and explain the problem. In 2009, India's Nominal GDP was $1.341 Trillion, 31% of that will be around $0.416 Trillion. At the same time, in 2019, India's Nominal GDP was $2.875 Trillion, 24.88% of that comes out to be $0.715 Trillion.
 
-<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=wgdpindi&projection=te&v=202010162300V20200908&d1=20091017&d2=20201217&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/india/gdp'>tradingeconomics.com</a>
+<p align="center"><iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=wgdpindi&projection=te&v=202010162300V20200908&d1=20091017&d2=20201217&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/india/gdp'>tradingeconomics.com</a></p>
 
 So you see, there is growth, but the growth of service sector outperforms it. And not just that, growth of agricultural sector is also less than the national average. So what makes India a growth story?
 
@@ -24,7 +24,7 @@ So you see, there is growth, but the growth of service sector outperforms it. An
 
 Take a wild guess of the growth rate of Agriculture sector of India. We call ourselves a country of farmers. I will give you a discount, guess the number from 2017, when the economy was strongest ever. Do you have a number in mind?
 
-Okay, hold your breath. Here comes the number. If you don't trust me, please read the [report by Ministry of Finance](http://mofapp.nic.in:8080/economicsurvey/pdf/001-027_Chapter_01_Economic_Survey_2017-18.pdf). Here it comes, and I quote:
+Okay, hold your breath. Here comes the number. Government of India states this in a [report by Ministry of Finance](http://mofapp.nic.in:8080/economicsurvey/pdf/001-027_Chapter_01_Economic_Survey_2017-18.pdf) and I quote:
 
 > This is on account of lower growth in ‘Agriculture & allied’, and ‘Industry’ sector, which are expected to grow at 2.1 per cent and 4.4 per cent respectively. In 2017-18, service sector is expected to grow at 8.3 per cent, as compared to 7.7 per cent in  2016-17. Within the services sector, only the growth of ‘Public administration, defence & other services’ sector is expected to decline in 2017-18.
 
