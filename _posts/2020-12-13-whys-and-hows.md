@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Questions of Lifetime"
+title: "Questions of a Lifetime"
 tags:
 - Life
 - Startup
