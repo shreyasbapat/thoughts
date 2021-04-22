@@ -13,11 +13,11 @@ Indeed, this was all our generation knew about vaccines in particular. We never 
 
 ## Development time for Vaccines
 
-If you remember the early days of the pandemic, everyone was confused. Even doctors did not knew what to do. This was once in a century event. Something of this scale was last witnessed in Spanish Flu about 100 years back. I remember reading a [world economic forum]()https://www.weforum.org/agenda/2020/06/vaccine-development-barriers-coronavirus/ report on vaccines in general which mentioned a timeline of about 10 years for a vaccine to be ready. And I was shocked. See this image:
+If you remember the early days of the pandemic, everyone was confused. Even doctors did not knew what to do. This was once in a century event. Something of this scale was last witnessed in Spanish Flu about 100 years back. I remember reading a [world economic forum](https://www.weforum.org/agenda/2020/06/vaccine-development-barriers-coronavirus/) report on vaccines in general which mentioned a timeline of about 10 years for a vaccine to be ready. And I was shocked. See this image:
 
 ![Vaccine Development Schedule](https://wellcome.org/sites/default/files/styles/standalone_image_full_width/public/infographic-vaccine-development-1200x1850.png)
 
-
+In general vaccines are hard to make. According to Bill Gates, it's harder than making a Jet Engine, and I agree. Polio vaccine development started in 1930's. First candidates found in 1950's. Vaccination Drive in India started as late as 1985. And it still took 20 years for India to eradicate polio. There are still many countries on this planet who haven't eradicated polio yet. One of them is our not-so-friendly neighbour Pakistan. 
 
 
 
