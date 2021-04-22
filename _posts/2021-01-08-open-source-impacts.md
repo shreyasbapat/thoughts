@@ -37,7 +37,7 @@ Do you know what is the biggest problem still unsolved in the open-source world?
 
 ## Maintainers
 
-A few companies take over some open source project and then assign some of their engineers as maintainers. This means that the projects see a lot of development and activity. But there is a problem. If you have seen how a founder maintainer works on such a project vs. how employees of a company get paid for maintaining work on the same project. You will see a clear gap between "love" for the project. While I do not want to generalize this, this is true for most if not all such open-source projects. The communities in that case feel more like customer support and less like an actual community. 
+A few companies take over some open source project and then assign some of their engineers as maintainers. This means that the projects see a lot of development and activity. But there is a problem. If you have seen how a founder maintainer works on such a project vs. how employees of a company get paid for maintaining work on the same project. You will see a clear gap between "love" for the project. While I do not want to generalize this, this is true for most if not all such open-source projects. The communities in that case feel more like customer support and less like an actual community.
 
 ## How do we solve the open-source money problem?
 
