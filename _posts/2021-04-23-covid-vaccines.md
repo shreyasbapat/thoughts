@@ -36,19 +36,19 @@ But it's not just that. Although late to the party, vaccines like Sputnik-V, Oxf
 Let us have a look at the major challenges faced by India in polio vaccination drive (Excerpt from [this](https://en.wikipedia.org/wiki/Pulse_Polio) wikipedia article.):
 
 ```
-Testing showed that three doses of vaccine was enough to protect children in developed countries, but it became obvious that this was not enough in some areas of India. The Ministry of Health and Family Welfare recommended eight to ten doses for each child.
+- Testing showed that three doses of vaccine was enough to protect children in developed countries, <br> but it became obvious that this was not enough in some areas of India. <br> The Ministry of Health and Family Welfare recommended eight to ten doses for each child.
 
-Children in some areas of India are weaker and often had diarrhoea, which reduced the efficiency of the vaccine. Open defecation, monsoon flooding, and a lack of water treatment made it easier for a child to swallow more polio virus. As a result, children with too few doses of vaccine were not fully protected and sometimes got polio.
+- Children in some areas of India are weaker and often had diarrhoea, which reduced the efficiency of the vaccine. Open defecation, monsoon flooding, and a lack of water treatment made it easier for a child to swallow more polio virus. As a result, children with too few doses of vaccine were not fully protected and sometimes got polio.
 
-The eradication program therefore gave drops over and over again, to boost children's immunity higher and as a precaution against missed children. Few parents initially knew that the vaccination campaign was trying to eradicate the disease, so they did not understand the reasons for the increasing intensity of vaccination. The increasing frequency of the drops and cases of polio among partially vaccinated children, caused rumours that the drops did not work.
+- The eradication program therefore gave drops over and over again, to boost children's immunity higher and as a precaution against missed children. Few parents initially knew that the vaccination campaign was trying to eradicate the disease, so they did not understand the reasons for the increasing intensity of vaccination. The increasing frequency of the drops and cases of polio among partially vaccinated children, caused rumours that the drops did not work.
 
-On July 30, 2013 a nine-month-old boy from Navi Mumbai tested positive for vaccine-derived poliovirus (VDPV) type 2. This was the fourth such case recorded in the country in 2013.
+- On July 30, 2013 a nine-month-old boy from Navi Mumbai tested positive for vaccine-derived poliovirus (VDPV) type 2. This was the fourth such case recorded in the country in 2013.
 
-Many parts of India are remote and hard to access. People in some areas had had poor and caste-discriminatory treatment by government health authorities, which made them less willing to assist in the vaccination programme. The time demands of polio vaccination sometimes left health care workers with less time for other services. The absence of any free health services other than polio vaccination and contraception lead to rumours that the drops caused infertility.
+- Many parts of India are remote and hard to access. People in some areas had had poor and caste-discriminatory treatment by government health authorities, which made them less willing to assist in the vaccination programme. The time demands of polio vaccination sometimes left health care workers with less time for other services. The absence of any free health services other than polio vaccination and contraception lead to rumours that the drops caused infertility.
 
-Rumours about vaccinations varied by area, but were clustered, so that there was a greater risk of a cluster of unvaccinated children. Some believed that vaccinating newborns, children who are ill, or previously vaccinated children was not safe; the last polio case in India was a girl who had not been vaccinated because she was sickly. There were also rumours that the polio drops were made from the blood of pigs, dogs, or mice, or from pig fat.
+- Rumours about vaccinations varied by area, but were clustered, so that there was a greater risk of a cluster of unvaccinated children. Some believed that vaccinating newborns, children who are ill, or previously vaccinated children was not safe; the last polio case in India was a girl who had not been vaccinated because she was sickly. There were also rumours that the polio drops were made from the blood of pigs, dogs, or mice, or from pig fat.
 
-Poor participation of doctors and nurses, difficulty in maintaining and procuring vaccine, difficulty in procuring vehicles, and a lack of support from community members have caused problems in the program,[8] as has fatigue at the length of the anti-polio campaign.
+- Poor participation of doctors and nurses, difficulty in maintaining and procuring vaccine, difficulty in procuring vehicles, and a lack of support from community members have caused problems in the program,[8] as has fatigue at the length of the anti-polio campaign.
 
 ```
 
