@@ -27,7 +27,7 @@ And since US has the greatest deficit among the countries, don't think their 28%
 - Bangladesh: 22%
 - Afghanistan: 12%
 
-Well, I hope you understand where I am going. **Our Healthcare spend this year was 1.5% of Nominal GDP**. Now think what each country's spend in % of government budget would look like?
+Well, I hope you understand where I am going. **Our Healthcare spend this year was 1.8% of Nominal GDP**. Now think what each country's spend in % of government budget would look like?
 
 - USA: 29%
 - China: 12%
