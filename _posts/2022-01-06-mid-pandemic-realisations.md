@@ -54,7 +54,7 @@ Good mental health can be correlated to a good lifestyle that I adopted a few mo
 
 I am in general a happy person. I am now a pet parent, spend most of my day in positivity. I tend to block away from all possible hindrances to my mental peace in this process.
 
-I have started paying a lot of attention to what I eat. I have stopped eating grains. I consume a huge amount of protein in a day sourced naturally. I used to drink a lot of carbonated soft drinks, this has turned into very very occasional stuff, last few times I went out, I had hot chocolate. I can do 30 pushups now easily (YES 30) - I am planning to push myself beyond this pretty soon. I am a 66 kg individual now. Outfits fit very well, I notice that they in general look better on me than 1 year back. I am happier and content with what I have.
+I have started paying a lot of attention to what I eat. I have stopped eating grains. I consume a huge amount of protein in a day sourced naturally. I used to drink a lot of carbonated soft drinks, this has turned into very very occasional stuff, last few times I went out, I had hot chocolate. I can do 30 pull-ups now easily (YES 30) - I am planning to push myself beyond this pretty soon. I am a 66 kg individual now. Outfits fit very well, I notice that they in general look better on me than 1 year back. I am happier and content with what I have.
 
 I stopped writing for a few months, but that does not mean I did not do anything. I started creating digital art. Though I am still learning, I already see myself holding a stylus and creating something nice to look at.  
 
