@@ -10,7 +10,7 @@ tags:
 This pandemic has been a catalyst for change in my life. I started this as a completely different individual and now, looking back at what I was - I realize I have evolved a lot.
 
 Consider this as a journal entry, or consider this as my story through this pandemic. Last few months, I did not write anything. This was because I realized a few things.
-I went through some to-be-traumatic experiences through which I sailed perfectly and without harm. If you feel like knowing what happened to me in the last 6 months and how having a good set of habits, letting go of some toxic habits, and making the right choices at the right time made the later part of 2021 which supposedly was full of letdowns for me, very fun and inspiring.
+I went through some to-be-traumatic experiences through which I sailed perfectly and without harm. If you feel like knowing what happened to me in the last 6 months and how having a good set of habits, letting go of some toxic habits, and making the right choices at the right time made the later part of 2021 which supposedly was full of letdowns for me, very fun and inspiring - please keep reading. This is not the usual format in which I write, so if you are here for numbers and groundbreaking stats, you can skip this and I will be back with some content for you soon.
 
 ## Goals and Personal Fitness
 
@@ -58,7 +58,7 @@ I have started paying a lot of attention to what I eat. I have stopped eating gr
 
 I stopped writing for a few months, but that does not mean I did not do anything. I started creating digital art. Though I am still learning, I already see myself holding a stylus and creating something nice to look at.  
 
-I am proud of myself for starting a very healthy lifestyle this year. This has impacted me in every way possible. Although I am not the best version of myself yet, but I feel like I am getting there. I have traveled a lot. My perspective on the world has changed. I made new friends, on Twitter and trips. Friends I will cherish for a long time to come. My fitness will increase every year and so should yours! 
+I am proud of myself for starting a very healthy lifestyle this year. This has impacted me in every way possible. Although I am not the best version of myself yet, but I feel like I am getting there. I have traveled a lot. My perspective on the world has changed. I made new friends, on Twitter and trips. Friends I will cherish for a long time to come. My fitness will increase every year and so should yours!
 
 Thank you for reading this. Thank you for being in my life. Thank you to every well-wisher and critique out there. You are helping me grow and I will make you proud.
 
