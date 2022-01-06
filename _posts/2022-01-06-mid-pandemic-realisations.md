@@ -58,7 +58,7 @@ I have started paying a lot of attention to what I eat. I have stopped eating gr
 
 I stopped writing for a few months, but that does not mean I did not do anything. I started creating digital art. Though I am still learning, I already see myself holding a stylus and creating something nice to look at.  
 
-I am proud of myself for starting a very healthy lifestyle this year. This has impacted me in every way possible. I have traveled a lot. My perspective on the world has changed. I made new friends, on Twitter and trips. Friends I will cherish for a long time to come.
+I am proud of myself for starting a very healthy lifestyle this year. This has impacted me in every way possible. Although I am not the best version of myself yet, but I feel like I am getting there. I have traveled a lot. My perspective on the world has changed. I made new friends, on Twitter and trips. Friends I will cherish for a long time to come. My fitness will increase every year and so should yours! 
 
 Thank you for reading this. Thank you for being in my life. Thank you to every well-wisher and critique out there. You are helping me grow and I will make you proud.
 
