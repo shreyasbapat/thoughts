@@ -1,14 +1,14 @@
 # Site settings
 title: Thoughts | Shreyas Bapat
-description: "Weird Thoughts, Useful Thoughts, Just Thoughts"
+description: "Thoughts that probably don't matter"
 baseurl: "/"
-url: "http://blog.shreyasb.dev/"
+url: "https://thoughts.shreyasb.com/"
 
 # User settings
 username: Shreyas Bapat
 user_title: Software Developer
 email: hello@shreyasb.com
-twitter_username: astroshreyas
+twitter_username: 0xShreyas
 github_username:  shreyasbapat
 linkedin_public_url: shreyasbapat
 disqus_username: shreyasbapat
@@ -56,7 +56,7 @@ links:
       key_trigger: g
     - title: twitter
       external: true
-      url: https://twitter.com/astroshreyas
+      url: https://twitter.com/0xShreyas
       key_trigger: t
     - title: search
       url: ""
@@ -68,7 +68,7 @@ projects:
     url: https://github.com/poliastro/poliastro
   - name: EinsteinPy
     url: https://github.com/einsteinpy/einsteinpy
-  - name: FurryTails
-    url: https://furrytails.in
+  - name: Furrble
+    url: https://furrble.com
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
