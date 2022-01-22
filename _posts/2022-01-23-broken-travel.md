@@ -5,7 +5,6 @@ tags:
 - covid
 - travel
 ---
-
 Did you see this news?
 
 ![Sri Lanka Under Massive Debt](../images/tourism1.png)
@@ -52,11 +51,43 @@ More and more countries are going into fiscal deficits and hence eventually runn
 
 We do not know how deep this shock is going to be. This shock is already outlasting forex reserves of countries like Sri Lanka and represents a good opportunity for countries like China who grow and expand on debt.
 
+## Vaccine Passports
+
+I am a travel enthusiast. I want to go and see different places. But you know what? It is too expensive right now.
+
+There are majorly two issues here:
+
+1) **Random Border Closures/ requirements of RT-PCR**
+
+2) **Countries not respecting WHO Vaccine Approvals**
+
+### Random Border Closures/ requirements of RT-PCR
+
+Because of this, I simply can not plan my travel. Booking tickets 3 months before travel is very risky, as countries close their borders whenever they wish. Or maybe my source country shuts the travel to the country I desire to travel to.
+
+One day they require an RT-PCR, the other day they don't. Also, the quarantine requirements keep changing. As a tourist, I probably don't want to be quarantined in the country I want to visit. Same while coming back to the home country.
+
+### Countries not respecting WHO Vaccine Approvals
+
+India and many other American countries do well in this regard, but then comes Europe. Even after having a global agency dictating which vaccine is safe and which is not, they have [EMA](https://www.ema.europa.eu). And EMA is very picky on which vaccines to approve. This is wrong on countless fronts and creates a roadblock if nothing else in tourism.
+
+And just when you start to think this is nothing, you get hit by all the vaccine passport and contact tracing applications. Every country has an app. India will only respect Aarogya Setu, the USA has their app, Europe has a certain vaccination certificate, and only that works. If you go with an Indian Vaccination Certificate, you might not be allowed to at in a restaurant in certain countries.
+
+The more you think about what is going on, the more chaotic it seems. [IMF has published a small article](https://www.imf.org/en/News/Articles/2021/02/24/na022521-how-to-save-travel-and-tourism-in-a-post-pandemic-world) which talks about what can these tourism economies do? But it does not solve any problem. And the solutions are not quickly adaptable.
+
+## What can be done?
+
+Make travel easier. HAVE ONE GLOBAL APP. An app that shows if a person is vaccinated or not. The same app can act as a contact tracing application. Blanket travel bans have [proved to be useless](https://www.hindustantimes.com/world-news/blanket-travel-bans-will-not-prevent-omicron-spread-says-who-101638294842066.html). We have to stop asking our governments to shut all flights to a country whenever we come across a variant. We have to understand that West Bengal banning all the flights to the UK only creates a panic. Anyone can board a flight to Delhi from London Heathrow and then board a domestic flight to Kolkata.
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">West Bengal Govt decides to suspend all flights coming from UK to Kolkata airport from January 3 <a href="https://t.co/uklpWGYmTJ">pic.twitter.com/uklpWGYmTJ</a></p>&mdash; ANI (@ANI) <a href="https://twitter.com/ANI/status/1476525690350497792?ref_src=twsrc%5Etfw">December 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+THIS MAKES NO SENSE. If anything, people from the UK will be hesitant to travel to Kolkata and any possibility of tourism is reduced. It is hurting the local economy.
+
+At last, every country should start donating vaccines to deprived countries and make sure the whole population in the world is vaccinated. It's been a total of 2 years now. We are still witnessing first-degree problems.
+
+> We can not defeat the virus till we work together.
+
 
 ## A friendly note
 
-If you feel you want to talk to me, for anything - venting out/just a casual conversation/whatever. I will be up for it. It has been a tough year. After helping some people in wave 2, I have realized that the value of life is much more than personal relations. So even if we have never talked, and you wish to talk and not be judged, I will be all in. Please [schedule a call with me](https://cron.com/shreyasbapat/d9373nz7)
-
-I wish you all a very healthy and peaceful new year 2022.
-
-This also is a reminder to myself that I should resume my monthly articles. So I think I will continue. Thanks for the support again.
+If you feel you want to talk to me, share ideas about this. I will be up for it. It has been a tough year. I am also up for any travel plans you have in mind :p. Please [schedule a call with me](https://cron.com/shreyasbapat/i019a41d8) or drop me a mail @ [bapat.shreyas@gmail.com](mailto:bapat.shreyas@gmail.com).
