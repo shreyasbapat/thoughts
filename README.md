@@ -1,8 +1,8 @@
-# Thoughts - My Jekyll Blog
+# Thoughts - My Blog
 
 I will be writing many things on this blog! Keep posted.
 
-https://blog.shreyasb.dev/
+https://thoughts.shreyasb.com
 
 Thanks!
 
