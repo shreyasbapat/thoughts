@@ -11,12 +11,12 @@ tags:
 > Who are you?
 
 When you are asked this question, what will you answer? Perhaps you will tell
-me your name? Maybe you will tell them about your family, your birthplace, your
+them your name? Maybe you will tell them about your family, your birthplace, your
 parents, etc. Pretty easy right? Now answer this question:
 
 > Where are you from?
 
-What do you think? India? Why?
+What do you think? Will you say you are from India? Why?
 
 Let's try to list down possible explanations :
 
